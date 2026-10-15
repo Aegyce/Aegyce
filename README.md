@@ -2,24 +2,28 @@
 
 > To build the world's best AI Server OS—and awaken a self-evolving digital civilization.
 
-自进化 · 安全 · 自组织
+Aegyce is a system-level AI Harness for agents that learn from experience, work together, and pursue goals within boundaries enforced by code.
 
-Aegyce 是面向操作系统的 AI Harness 服务框架，统一组织模型、工具、知识、上下文与记忆，让智能体围绕目标自主协作，在持续工作中积累经验、改进能力。
+- **Self-evolution**: Improve existing agents and create specialized agents from authorized experience; validate changes before adoption.
+- **Security**: Enforce identity, permissions, isolation, and data protection in code; keep sensitive source data local.
+- **Self-organization**: Coordinate agents and systems to plan, execute, and adapt within permission and resource limits.
 
-## 我们的理念
+**First target:** openEuler 24.03 LTS · **Language:** Rust · **Interface:** TUI
 
-把目标交给系统，让智能体自主组织完成；由框架代码落实权限、资源与数据边界，让自主运行始终可控。
+Currently in architecture design; these capabilities are design goals.
 
-> 智能自主，权限受控；局部自治，全局协同；经验可复用，执行可追溯。
+---
 
-## 三个核心特性
+## 中文
 
-- **自进化**：从获准的工作经验与反馈中提炼可复用能力，改进已有智能体，按需生成领域智能体；经过验证，再按版本采用并持续评估。
-- **安全**：由框架代码落实身份验证、权限检查、运行隔离与数据保护。敏感原文留在本机，外部模型仅接收获准内容。
-- **自组织**：围绕需求自主规划、分工、协作与调整，在权限和资源边界内推进工作，并支持不同系统之间的受控协同。
+> 打造世界上最好的 AI 服务器操作系统，唤醒一个持续进化的数字文明。
 
-## 首发计划
+Aegyce 是系统级 AI Harness 服务框架，让智能体从经验中成长、围绕目标协作，并由代码落实运行边界。
 
-首个支持的操作系统发行版：**openEuler 24.03 LTS**。采用 **Rust** 开发，以 **TUI** 提供交互。
+- **自进化**：从获准经验中改进已有智能体、生成领域智能体，先验证再采用。
+- **安全**：由代码落实身份、权限、隔离与数据保护，敏感原文留在本机。
+- **自组织**：组织智能体与系统自主规划、执行和调整，遵守权限与资源限制。
 
-项目目前处于架构设计阶段，上述特性为设计目标。长期希望成为 AI OS 的通用智能运行底座，并探索智能体执行、协作与治理的通用标准。
+**首发平台：** openEuler 24.03 LTS · **开发语言：** Rust · **交互界面：** TUI
+
+目前处于架构设计阶段，上述能力为设计目标。
