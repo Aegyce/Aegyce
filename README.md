@@ -14,8 +14,6 @@ Currently in architecture design; these capabilities are design goals.
 
 ---
 
-## 中文
-
 > 打造世界上最好的 AI 服务器操作系统，唤醒一个持续进化的数字文明。
 
 Aegyce 是系统级 AI Harness 服务框架，让智能体从经验中成长、围绕目标协作，并由代码落实运行边界。
