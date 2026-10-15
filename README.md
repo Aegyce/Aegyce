@@ -2,11 +2,11 @@
 
 > Building the world's premier AI Server OS — and awakening a self-evolving digital civilization.
 
-Aegyce is a system-level AI Harness framework designed for autonomous agents to continuously evolve through experience, collaborate toward shared goals, and operate within strictly code-enforced boundaries.
+Aegyce is a system-level AI Harness framework where agents learn from experience, evolve continuously, and collaborate toward goals — all within boundaries enforced by code.
 
-- **Self-evolution**: Distill reusable capabilities from authorized operational experience to continuously refine existing agents and derive specialized ones; all changes are validated before versioned adoption.
-- **Security**: Enforce identity verification, permissions, runtime isolation, and data protection in code; sensitive source data and substitution mappings remain strictly local.
-- **Self-organization**: Autonomously plan, divide work, collaborate, and adapt around goals within code-enforced permission and resource boundaries, with support for trusted cross-system collaboration.
+- **Self-evolution**: Extract reusable capabilities from operational experience to improve existing agents and create specialized ones; every change is validated before versioned release.
+- **Security**: Identity, permissions, runtime isolation, and data protection are enforced in code; sensitive data never leaves the machine, and external models receive only processed, safe content.
+- **Self-organization**: Agents plan, divide work, and adapt autonomously within permission and resource boundaries, with support for cross-system collaboration.
 
 **Primary Target:** openEuler 24.03 LTS · **Language:** Rust · **Interface:** TUI
 
@@ -16,11 +16,11 @@ Aegyce is a system-level AI Harness framework designed for autonomous agents to 
 
 > 打造世界上最好的 AI 服务器操作系统，唤醒一个持续进化的数字文明。
 
-Aegyce 是面向操作系统的系统级 AI Harness 服务框架，让智能体从经验中持续演进、围绕目标自主协作，并在代码强制的安全边界内稳定运行。
+Aegyce 是系统级 AI Harness 框架，让智能体从工作经验中持续进化、围绕目标自主协作，所有安全边界由代码强制执行。
 
-- **自进化**：从经过验证的工作经验与反馈中提炼可复用能力，改进已有智能体，按需生成领域智能体；验证通过后按版本采纳并持续评估。
-- **安全**：由框架代码落实身份验证、权限检查、运行隔离与数据保护；敏感原文与替代映射留在本机，外部模型仅接收允许外发的内容。
-- **自组织**：围绕需求自主规划、分工、协作与调整，在权限和资源边界内推进工作，并支持跨系统的受控协同。
+- **自进化**：从真实工作经验中提炼可复用能力，持续改进现有智能体，按需创建专业智能体；所有变更先经验证，再按版本发布并持续评估。
+- **安全**：身份验证、权限控制、运行隔离和数据保护全部在代码层面强制执行；敏感数据始终留在本机，外部模型只能接触经过安全处理的内容。
+- **自组织**：智能体围绕目标自主规划、分工与协调，在明确的权限和资源约束内完成工作，并支持跨系统的受控协同。
 
 **首发平台：** openEuler 24.03 LTS · **开发语言：** Rust · **交互界面：** TUI
 
