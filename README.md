@@ -20,3 +20,6 @@ Aegyce supports two product forms: installation on an existing OS, and Aegyce OS
 
 The long-term direction is a general-purpose AI OS. The current framework does not replace the operating-system kernel or train foundation-model weights. Decision quality, performance, recovery behavior, and security controls require implementation and validation.<br>
 <sub>长期方向是通用 AI OS。当前框架不替代操作系统内核，不训练基础模型权重。决策效果、性能、故障恢复和安全控制仍需实现与验证。</sub>
+
+Original materials are licensed under [CC BY-NC 4.0](LICENSE). Commercial use requires [separate written permission](COMMERCIAL-LICENSE.md).<br>
+<sub>原创内容采用 [CC BY-NC 4.0](LICENSE) 许可，商业用途须取得[单独书面授权](COMMERCIAL-LICENSE.md)。</sub>
