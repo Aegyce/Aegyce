@@ -21,8 +21,8 @@ Aegyce supports two product forms: installation on an existing OS, and Aegyce OS
 The long-term direction is a general-purpose AI OS. The current framework does not replace the operating-system kernel or train foundation-model weights. Decision quality, performance, recovery behavior, and security controls require implementation and validation.<br>
 <sub>长期方向是通用 AI OS。当前框架不替代操作系统内核，不训练基础模型权重。决策效果、性能、故障恢复和安全控制仍需实现与验证。</sub>
 
-[Aegyce Marketplace](https://github.com/Aegyce/aegyce-marketplace) organizes reusable capabilities for AI tools by agent. The [Aesy capability package](https://github.com/Aegyce/agent-aesy) currently provides a skill for computer technical language.<br>
-<sub>[Aegyce Marketplace](https://github.com/Aegyce/aegyce-marketplace) 按 Agent 组织可供 AI 工具复用的能力。通用 Agent 的能力包 [Aesy](https://github.com/Aegyce/agent-aesy) 当前提供计算机技术用语 Skill。</sub>
+The [Aesy repository](https://github.com/Aegyce/agent-aesy) maintains Aegyce's general-purpose agent. [Aegyce Marketplace](https://github.com/Aegyce/aegyce-marketplace) distributes reusable components from agents. These may include skills, MCP integrations, tools, and other capabilities that can be used by AI tools through supported formats and interfaces.<br>
+<sub>[Aesy 仓库](https://github.com/Aegyce/agent-aesy) 维护 Aegyce 的通用 Agent。[Aegyce Marketplace](https://github.com/Aegyce/aegyce-marketplace) 分发各 Agent 的可复用组件，可包括 Skill、MCP 集成、工具等，通过其他 AI 工具支持的格式与接口接入。</sub>
 
 Original materials are licensed under [CC BY-NC 4.0](LICENSE). Commercial use requires [separate written permission](COMMERCIAL-LICENSE.md).<br>
 <sub>原创内容采用 [CC BY-NC 4.0](LICENSE) 许可，商业用途须取得[单独书面授权](COMMERCIAL-LICENSE.md)。</sub>
