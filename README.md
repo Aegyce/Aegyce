@@ -1,5 +1,8 @@
 # Aegyce
 
+> **愿景：** 打造世界上最好的 AI 服务器操作系统，唤醒一个持续进化的数字文明。<br>
+> **Vision:** Building the world's premier AI Server OS — and awakening a self-evolving digital civilization.
+
 Aegyce 提供两种产品形态：安装到现有操作系统中的 Aegyce，以及按 Aegyce 架构适配的完整操作系统 Aegyce OS。V1.0 的交付目标是以 openEuler 24.03 LTS 为基础的 Aegyce OS。两种形态共用系统级 AI Harness 核心框架：围绕用户需求组织模型调用、工具使用与执行流程。项目目前处于架构设计阶段，以下四项核心特性均为设计目标。<br>
 Aegyce can be installed on an existing operating system or delivered as Aegyce OS, a complete operating system adapted to the Aegyce architecture. V1.0 aims to deliver Aegyce OS based on openEuler 24.03 LTS. Both forms share a system-level AI Harness core: it organizes model calls, tool use, and execution around user requirements. The project is currently in the architecture design phase. The four core features below describe the intended behavior.
 
